@@ -1,0 +1,46 @@
+			body{
+	background: #34495e;
+		margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.menu ul li{
+	background-color: #000000;
+	color: white;
+	float: left;
+	width: 200px;
+	height: 40px;
+	display: inline-block;
+	text-align: center;
+	line-height: 40px;
+}
+
+.pesquisa{
+	width: 400px;
+	height: 40px;
+	margin: 200px; auto;
+
+}
+
+#texto{
+	width: 350px;
+	height: 40px;
+	float: left;
+	font-family: 'Arial';
+	font-size: 20px;
+}
+
+.btn{
+
+	width: 30px;
+	height: 30px;
+	background-color: #4275f5;
+	padding: 5px 10px;
+	cursor: pointer;
+
+}
+
+#texto:focus{
+	border: solid 2px #4275f5;  
+}
