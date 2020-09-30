@@ -1,1 +1,1 @@
-# http:/test.github.io
+# http://test.github.io
